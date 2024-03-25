@@ -1,5 +1,5 @@
 <h1>Student/Mentor API</h1>
-
+<p>Create endpoints using nodejs/express to fetch/modify data from data stored in MongoDB, used Postman to test the request</p>
 <h4><b>Postman Link:</b> https://api.postman.com/collections/26304073-f655c33e-5855-4461-9897-1b138e490940?access_key=PMAT-01HSTDBCXZ2V9WVR79DQ6D43VK</h4>
 <ol>
   <li>Created an API endpoint to create a student in Database <br> <b>Endpoint :</b> localhost:8000/studentmentor/createstudent</li>
